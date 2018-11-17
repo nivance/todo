@@ -49,11 +49,7 @@ TODO
 * Python
   + [tldr](https://github.com/tldr-pages/tldr): Simplified and community-driven man pages
   + [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim): EditorConfig plugin for Vim
-  + [tldr](https://github.com/tldr-pages/tldr)  
-  + [tldr](https://github.com/tldr-pages/tldr)  
-  + [tldr](https://github.com/tldr-pages/tldr)  
-  + [tldr](https://github.com/tldr-pages/tldr)  
-   
+
 
 
 # Tools
