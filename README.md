@@ -4,6 +4,8 @@ TODO
 # awesome-list
 * [greview](https://github.com/anvaka/greview)
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
+* [awesome-agriculture](https://github.com/beaorn/awesome-agriculture)
+
 
 # Deep-Learning & Machine-Learning
 * [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)
@@ -12,8 +14,13 @@ TODO
 
 # Crawl
 * [Listed-company-news-crawl-and-text-analysis](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis): 爬取上市公司（个股）的历史新闻文本数据进行文本分析
+* [BaiduImageDownload](https://github.com/nnngu/BaiduImageDownload): Python爬虫实现百度图片自动下载
+* []()
+* []()
 
-# Quant
+# Quant & Trade
+* [open-trade-gateway](https://github.com/shinnytech/open-trade-gateway): Diff协议中继网关, 支持 CTP / FEMAS / UFX 等交易系统
+* []()
 
 
 # Language
@@ -50,6 +57,10 @@ TODO
   + [tldr](https://github.com/tldr-pages/tldr): Simplified and community-driven man pages
   + [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim): EditorConfig plugin for Vim
 
+
+# Learn
+* [LearningNotes](https://github.com/nnngu/LearningNotes)
+* [swiper](https://github.com/seamile/swiper)(Python)
 
 
 # Tools
