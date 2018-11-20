@@ -5,6 +5,7 @@ TODO
 * [greview](https://github.com/anvaka/greview)
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [awesome-agriculture](https://github.com/beaorn/awesome-agriculture)
+* [awesome-apm](https://github.com/antonarhipov/awesome-apm)
 
 
 # Deep-Learning & Machine-Learning
@@ -20,7 +21,8 @@ TODO
 
 # Quant & Trade
 * [open-trade-gateway](https://github.com/shinnytech/open-trade-gateway): Diff协议中继网关, 支持 CTP / FEMAS / UFX 等交易系统
-* []()
+* [ctpwrapper](https://github.com/nooperpudd/ctpwrapper)：上海期货交易所CTP接口
+
 
 
 # Language
@@ -36,7 +38,9 @@ TODO
   + [sunrisesunset](https://github.com/kelvins/sunrisesunset): Go package that provides the sunrise and sunset equation
   + [soar](https://github.com/XiaoMi/soar): SQL Optimizer And Rewriter
   + [kit](https://github.com/go-kit/kit): A standard library for microservices
-  + [webtty](https://github.com/maxmcd/webtty): Share a terminal session over WebRTC  
+  + [webtty](https://github.com/maxmcd/webtty): Share a terminal session over WebRTC
+  + [ssh-bastion](https://github.com/iamacarpet/ssh-bastion)
+  + [xgb](https://github.com/BurntSushi/xgb): The X Go Binding is a low-level API to communicate with the X server
 * C
   + [curl](https://github.com/curl/curl): A command line tool and library for transferring data with URL syntax
 * Java
@@ -46,6 +50,9 @@ TODO
   + [RxJava](https://github.com/ReactiveX/RxJava): RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
   + [RxJava2Examples](https://github.com/nanchen2251/RxJava2Examples)
   + [corretto-8](https://github.com/corretto/corretto-8): Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK
+  + [openmessaging-java](https://github.com/openmessaging/openmessaging-java/): OpenMessaging Runtime Interface for Java
+  + [dbeaver](https://github.com/dbeaver/dbeaver): Free universal database tool and SQL client
+  + [watchdog-spring-boot-starter](https://github.com/yuequan1997/watchdog-spring-boot-starter): Watchdog is an OAuth 2 provider for SpringBoot
 * JavaScript
   + [chinese-dos-games-web](https://github.com/rwv/chinese-dos-games-web)
   + [weapp-cookie](https://github.com/charleslo1/weapp-cookie): 一行代码让微信小程序支持 cookie
@@ -53,6 +60,7 @@ TODO
   + [openmct](https://github.com/nasa/openmct): A web based mission control framew     
   + [squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser
   + [strapi](https://github.com/strapi/strapi): Node.js Content Management Framework (headless-CMS) to build powerful API with no effort
+  + [embark](https://github.com/embark-framework/embark): Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 * Python
   + [tldr](https://github.com/tldr-pages/tldr): Simplified and community-driven man pages
   + [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim): EditorConfig plugin for Vim
@@ -61,6 +69,7 @@ TODO
 # Learn
 * [LearningNotes](https://github.com/nnngu/LearningNotes)
 * [swiper](https://github.com/seamile/swiper)(Python)
+* [CharlieMungerTalk](https://github.com/zhengxixuan/CharlieMungerTalk): 查理·芒格 文集
 
 
 # Tools
