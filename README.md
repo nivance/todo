@@ -10,13 +10,12 @@ TODO
 
 # Deep-Learning & Machine-Learning
 * [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)
-
-
+* [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
+* [bert](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
 
 # Crawl
 * [Listed-company-news-crawl-and-text-analysis](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis): 爬取上市公司（个股）的历史新闻文本数据进行文本分析
 * [BaiduImageDownload](https://github.com/nnngu/BaiduImageDownload): Python爬虫实现百度图片自动下载
-* []()
 * []()
 
 # Quant & Trade
@@ -41,8 +40,13 @@ TODO
   + [webtty](https://github.com/maxmcd/webtty): Share a terminal session over WebRTC
   + [ssh-bastion](https://github.com/iamacarpet/ssh-bastion)
   + [xgb](https://github.com/BurntSushi/xgb): The X Go Binding is a low-level API to communicate with the X server
+  + [memberlist]{https://github.com/hashicorp/memberlist}: Golang package for gossip based membership and failure detection
+  + [dive](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
+  + [orchestrator](https://github.com/github/orchestrator): MySQL replication topology management and HA
+  + [blb](https://github.com/westerndigitalcorporation/blb): Blb is a distributed object storage system designed for use on bare metal in cluster computing environments
 * C
   + [curl](https://github.com/curl/curl): A command line tool and library for transferring data with URL syntax
+  + [MemProcFS](https://github.com/ufrisk/MemProcFS): The Memory Process File System
 * Java
   + [tutorials](https://github.com/eugenp/tutorials): The "REST With Spring" Course
   + [FFmpegCommandHandler4java](https://github.com/eguid/FFmpegCommandHandler4java)
@@ -53,6 +57,8 @@ TODO
   + [openmessaging-java](https://github.com/openmessaging/openmessaging-java/): OpenMessaging Runtime Interface for Java
   + [dbeaver](https://github.com/dbeaver/dbeaver): Free universal database tool and SQL client
   + [watchdog-spring-boot-starter](https://github.com/yuequan1997/watchdog-spring-boot-starter): Watchdog is an OAuth 2 provider for SpringBoot
+  + [JCTools](https://github.com/JCTools/JCTools)
+  + [Dragonfly](https://github.com/dragonflyoss/Dragonfly): Dragonfly is an intelligent P2P based image and file distribution system
 * JavaScript
   + [chinese-dos-games-web](https://github.com/rwv/chinese-dos-games-web)
   + [weapp-cookie](https://github.com/charleslo1/weapp-cookie): 一行代码让微信小程序支持 cookie
@@ -61,10 +67,12 @@ TODO
   + [squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser
   + [strapi](https://github.com/strapi/strapi): Node.js Content Management Framework (headless-CMS) to build powerful API with no effort
   + [embark](https://github.com/embark-framework/embark): Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
+  + [vimium](https://github.com/philc/vimium): The hacker's browser
+  + [vs](https://github.com/anvaka/vs): Visualization of Google's autocomplete
 * Python
   + [tldr](https://github.com/tldr-pages/tldr): Simplified and community-driven man pages
   + [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim): EditorConfig plugin for Vim
-
+  + [Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph): 农业知识图谱(KG),农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策
 
 # Learn
 * [LearningNotes](https://github.com/nnngu/LearningNotes)
