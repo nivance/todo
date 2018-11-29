@@ -12,6 +12,8 @@ TODO
 * [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 * [bert](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
+* [tensor2tensor](https://github.com/tensorflow/tensor2tensor/): Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+
 
 # Crawl
 * [Listed-company-news-crawl-and-text-analysis](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis): 爬取上市公司（个股）的历史新闻文本数据进行文本分析
@@ -44,9 +46,15 @@ TODO
   + [dive](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
   + [orchestrator](https://github.com/github/orchestrator): MySQL replication topology management and HA
   + [blb](https://github.com/westerndigitalcorporation/blb): Blb is a distributed object storage system designed for use on bare metal in cluster computing environments
+  + [tools](https://github.com/golang/tools): [mirror] Go Tools
+  + [cmux](https://github.com/soheilhy/cmux): Connection multiplexer for GoLang: serve different services on the same port!
+  + [scope](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes
+  + [fission](https://github.com/fission/fission): Fast Serverless Functions for Kubernetes
+  + [athens](https://github.com/gomods/athens): A Go module datastore and proxy
 * C
   + [curl](https://github.com/curl/curl): A command line tool and library for transferring data with URL syntax
   + [MemProcFS](https://github.com/ufrisk/MemProcFS): The Memory Process File System
+  + [libusb](https://github.com/libusb/libusb): A cross-platform library to access USB devices
 * Java
   + [tutorials](https://github.com/eugenp/tutorials): The "REST With Spring" Course
   + [FFmpegCommandHandler4java](https://github.com/eguid/FFmpegCommandHandler4java)
@@ -59,6 +67,7 @@ TODO
   + [watchdog-spring-boot-starter](https://github.com/yuequan1997/watchdog-spring-boot-starter): Watchdog is an OAuth 2 provider for SpringBoot
   + [JCTools](https://github.com/JCTools/JCTools)
   + [Dragonfly](https://github.com/dragonflyoss/Dragonfly): Dragonfly is an intelligent P2P based image and file distribution system
+  + [reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm): Reactive Streams Specification for the JVM
 * JavaScript
   + [chinese-dos-games-web](https://github.com/rwv/chinese-dos-games-web)
   + [weapp-cookie](https://github.com/charleslo1/weapp-cookie): 一行代码让微信小程序支持 cookie
@@ -69,6 +78,7 @@ TODO
   + [embark](https://github.com/embark-framework/embark): Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
   + [vimium](https://github.com/philc/vimium): The hacker's browser
   + [vs](https://github.com/anvaka/vs): Visualization of Google's autocomplete
+  + [quasar](https://github.com/quasarframework/quasar)
 * Python
   + [tldr](https://github.com/tldr-pages/tldr): Simplified and community-driven man pages
   + [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim): EditorConfig plugin for Vim
@@ -78,11 +88,15 @@ TODO
 * [LearningNotes](https://github.com/nnngu/LearningNotes)
 * [swiper](https://github.com/seamile/swiper)(Python)
 * [CharlieMungerTalk](https://github.com/zhengxixuan/CharlieMungerTalk): 查理·芒格 文集
+* [linux-insides](https://github.com/0xAX/linux-insides)
+* [supercomputing](https://github.com/mmcloughlin/supercomputing): Notes from Supercomputing Conference
 
 
 # Tools
 * [淘宝IP地址库](http://ip.taobao.com/index.html)
 * [百度云链接下载不限速](https://pandownload.com/index.html)
+* [funNLP](https://github.com/fighting41love/funNLP)
+* [evolutionoftheweb](http://www.evolutionoftheweb.com)
 
 
 # Others
