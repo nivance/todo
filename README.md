@@ -14,6 +14,11 @@ TODO
 * [awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh)：独立开发/自由职业/远程工作资源列表
 * [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis): A curated list of awesome network analysis resources
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)：A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+* [awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java)：awesome list of graphql-java related projects
+* [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)：The best design tools for everything.
+* [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits)：A collection of awesome companies offering free/discounted plans for eligible startups
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)：A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+* [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)：An evolving how-to guide for securing a Linux server
 
 # Deep-Learning & Machine-Learning
 * [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)
@@ -26,6 +31,8 @@ TODO
 * [seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet): Play couplet with seq2seq model. 用深度学习对对联
 * [pytorch](https://github.com/pytorch/pytorch)：Tensors and Dynamic neural networks in Python with strong GPU acceleration
 * [euler](https://github.com/alibaba/euler): A distributed graph deep learning framework
+* [faceswap](https://github.com/deepfakes/faceswap)：Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
+* [awesome-design-system](https://github.com/alexpate/awesome-design-systems)：A collection of awesome design systems
 
 
 # Crawl
@@ -39,6 +46,10 @@ TODO
 * [grab](https://github.com/lorien/grab): Web Scraping Framework
 * [jd_analysis](https://github.com/awolfly9/jd_analysis): 京东商城评价信息数据分析
 * [douban_movie](https://github.com/panxl6/douban_movie)：豆瓣电影爬虫
+* [finance_news_analysis](https://github.com/pskun/finance_news_analysis)：金融新闻数据挖掘分析
+* [gain](https://github.com/gaojiuli/gain)：Web crawling framework based on asyncio.
+* [dash](https://github.com/plotly/dash)：Analytical Web Apps for Python. 
+* [crawl-zsxq](https://github.com/96chh/crawl-zsxq)：爬取知识星球，并制作成 PDF 电子书
 
 # Quant & Trade
 * [open-trade-gateway](https://github.com/shinnytech/open-trade-gateway): Diff协议中继网关, 支持 CTP / FEMAS / UFX 等交易系统
@@ -48,6 +59,7 @@ TODO
 
 # Language
 * GO
+  + [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)：Learn Go with test-driven development
   + [golua](https://github.com/Azure/golua): A Lua 5.3 engine implemented in Go
   + [lorca](https://github.com/zserge/lorca): Build cross-platform modern desktop apps in Go + HTML5
   + [Amass](https://github.com/OWASP/Amass): In-Depth DNS Enumeration and Network Mapping
@@ -118,7 +130,9 @@ TODO
   * [fescar](https://github.com/alibaba/fescar)：Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution
   * [greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy)：Java诊断工具
   * [javacv](https://github.com/bytedeco/javacv)：Java interface to OpenCV, FFmpeg, and more
+  * [miaosha](https://github.com/qiurunze123/miaosha)：秒杀系统设计与实现
 * JavaScript
+  + [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)：Algorithms and data structures implemented in JavaScript with explanations and links to further readings
   + [chinese-dos-games-web](https://github.com/rwv/chinese-dos-games-web)
   + [weapp-cookie](https://github.com/charleslo1/weapp-cookie): 一行代码让微信小程序支持 cookie
   + [graphql-engine](https://github.com/hasura/graphql-engine): Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
@@ -129,6 +143,8 @@ TODO
   + [vimium](https://github.com/philc/vimium): The hacker's browser
   + [vs](https://github.com/anvaka/vs): Visualization of Google's autocomplete
   + [quasar](https://github.com/quasarframework/quasar)
+  + [livepython](https://github.com/agermanidis/livepython)：Visually trace Python code in real-time
+  + [reveal.js](https://github.com/hakimel/reveal.js)：The HTML Presentation Framework
 * Python
   + [tldr](https://github.com/tldr-pages/tldr): Simplified and community-driven man pages
   + [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim): EditorConfig plugin for Vim
@@ -141,6 +157,12 @@ TODO
   + [toutiao-multilevel-text-classfication-dataset](https://github.com/fateleak/toutiao-multilevel-text-classfication-dataset): 今日头条中文新闻文本(多层)分类数据集
   + [ansible](https://github.com/ansible/ansible)：Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. 
   + [Recommenders](https://github.com/Microsoft/Recommenders): Recommender Systems
+  + [home-assistant](https://github.com/home-assistant/home-assistant)：Open source home automation that puts local control and privacy first
+  + [jax](https://github.com/google/jax)：Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+  + [maya](https://github.com/kennethreitz/maya)：Datetimes for Humans™
+  + [pattern](https://github.com/clips/pattern)：Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization
+  + [clusterfuzz](https://github.com/google/clusterfuzz)：Scalable fuzzing infrastructure
+  + [knowledge](https://github.com/coco369/knowledge)：python学习之路，就是不断累积，不断学习的过程
 
 # Learn
 * [Meta-Learning-Papers](https://github.com/floodsung/Meta-Learning-Papers): Meta Learning / Learning to Learn / One Shot Learning / Few Shot Learning
@@ -148,6 +170,7 @@ TODO
 * [LearningNotes](https://github.com/nnngu/LearningNotes)
 * [swiper](https://github.com/seamile/swiper)(Python)
 * [CharlieMungerTalk](https://github.com/zhengxixuan/CharlieMungerTalk): 查理·芒格 文集
+* [The-Economist](https://github.com/nailperry-zd/The-Economist)：The Economist 经济学人，持续更新
 * [linux-insides](https://github.com/0xAX/linux-insides)
 * [supercomputing](https://github.com/mmcloughlin/supercomputing): Notes from Supercomputing Conference
 * [ChatBotCourse](https://github.com/warmheartli/ChatBotCourse): 自己动手做聊天机器人教程
@@ -165,12 +188,17 @@ TODO
 * [看得见的统计概率入门](https://seeing-theory.brown.edu/cn.html)
 * [500lines](https://github.com/aosabook/500lines): http://aosabook.org/en/index.html
 * [techlead](https://github.com/phodal/techlead)：迈向 Tech Lead 之路，Path to Tech Lead
+* [nginx-tutorial](https://github.com/dunwu/nginx-tutorial)：这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx
+* [nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference)：These notes describes how to improve Nginx performance, security and other important things
+* [安全课程：渗透攻击](https://github.com/Micropoor/Micro8)
+* [distsys-class](https://github.com/aphyr/distsys-class)：Class materials for a distributed systems lecture series
 
 # Tools
 * [淘宝IP地址库](http://ip.taobao.com/index.html)
 * [百度云链接下载不限速](https://pandownload.com/index.html)
 * [funNLP](https://github.com/fighting41love/funNLP)
 * [evolutionoftheweb](http://www.evolutionoftheweb.com)
+* [git-history](https://github.com/pomber/git-history)：GitHub文件修改记录神器，可以查看任何github文件的历史修改记录。该工具的功能和使用方法简洁明了，只需要将任何文件的 URL 中的“github.com”替换成“github.githistory.xyz”即可。
 
 
 # Others
@@ -179,5 +207,6 @@ TODO
 * [zaobao](https://github.com/wubaiqing/zaobao)：每日时报，会以前端技术体系为主要分享课题。
 * [weekly](https://github.com/ruanyf/weekly)：技术分享周刊，每周五发布
 * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)：分享 GitHub 上有趣、入门级的开源项目
+* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)：这份清单里汇总了日常工作中需要用到的各种各样工具/材料的集合，适合所有程序员，尤其适用于系统和网络管理员，DevOps，Pentesters和安全研究人员
 
 
