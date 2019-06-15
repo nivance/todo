@@ -6,12 +6,14 @@ TODO
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [awesome-agriculture](https://github.com/beaorn/awesome-agriculture)
 * [awesome-apm](https://github.com/antonarhipov/awesome-apm)
+* [awesome-spider](https://github.com/facert/awesome-spider)：爬虫集合
 * [awesome-python-cn](https://github.com/jobbole/awesome-python-cn): Python资源大全中文版
 * [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): Scalable, Available, Stable, Performant, and Intelligent System Design Patterns
+* [architect-awesome](https://github.com/xingshaocheng/architect-awesome)：后端架构师技术图谱
 * [awesome-github](https://github.com/AntBranch/awesome-github)
+* [awesome-c](https://github.com/kozross/awesome-c)：A curated list of awesome C frameworks, libraries, resources and other shiny things. 
 * [awesome-ocr](https://github.com/wanghaisheng/awesome-ocr): A curated list of promising OCR resources
 * [awesome-leetcode](https://github.com/tangweikun/awesome-leetcode)
-* [awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh)：独立开发/自由职业/远程工作资源列表
 * [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis): A curated list of awesome network analysis resources
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)：A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 * [awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java)：awesome list of graphql-java related projects
@@ -19,8 +21,11 @@ TODO
 * [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits)：A collection of awesome companies offering free/discounted plans for eligible startups
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)：A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 * [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)：An evolving how-to guide for securing a Linux server
+* [awesome-spring-cloud](https://github.com/eacdy/awesome-spring-cloud)：Spring Cloud资源一网打尽
+* [awesome-dotnet-core](<https://github.com/thangchung/awesome-dotnet-core>)：A collection of awesome .NET core libraries, tools, frameworks and software
+* [awesome-bert](<https://github.com/Jiakui/awesome-bert>)：bert nlp papers, applications and github resources
 
-# Deep-Learning & Machine-Learning
+# Deep-Learning & Machine-Learning & AI
 * [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images
 * [bert](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
@@ -33,6 +38,10 @@ TODO
 * [euler](https://github.com/alibaba/euler): A distributed graph deep learning framework
 * [faceswap](https://github.com/deepfakes/faceswap)：Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
 * [awesome-design-system](https://github.com/alexpate/awesome-design-systems)：A collection of awesome design systems
+* [libfacedetection](https://github.com/ShiqiYu/libfacedetection)：An open source library for face detection in images. The face detection speed can reach 1500FPS.
+* [AiLearning](https://github.com/apachecn/AiLearning)：AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+* [nndl.github.io](https://github.com/nndl/nndl.github.io)：神经网络与深度学习
+* [theMLbook](<https://github.com/aburkov/theMLbook>)：**The Hundred-Page Machine Learning Book**，[中文介绍](https://mp.weixin.qq.com/s/W_GEP8dqjWyID7QxF_2IZw)
 
 
 # Crawl
@@ -50,12 +59,21 @@ TODO
 * [gain](https://github.com/gaojiuli/gain)：Web crawling framework based on asyncio.
 * [dash](https://github.com/plotly/dash)：Analytical Web Apps for Python. 
 * [crawl-zsxq](https://github.com/96chh/crawl-zsxq)：爬取知识星球，并制作成 PDF 电子书
+* [weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler)
+* [Python-spider](https://github.com/yesweetie/Python-spider)：爬虫+数据分析可视化
+* [GoldSentAnalysis](https://github.com/evanleungc/GoldSentAnalysis)：黄金舆情数据分析
+* [51job-spider](https://github.com/chenjiandongx/51job-spider)：前程无忧 Python 招聘岗位信息爬取和分析
+* [scrapybook-2nd-edition](https://github.com/scalingexcellence/scrapybook-2nd-edition)
+* [scrapybook](https://github.com/scalingexcellence/scrapybook)
 
 # Quant & Trade
 * [open-trade-gateway](https://github.com/shinnytech/open-trade-gateway): Diff协议中继网关, 支持 CTP / FEMAS / UFX 等交易系统
 * [ctpwrapper](https://github.com/nooperpudd/ctpwrapper)：上海期货交易所CTP接口
-
-
+* [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)：Notebooks, resources and references accompanying the book Machine Learning for Algorithmic Trading
+* [DevilYuan](https://github.com/moyuanz/DevilYuan)：DevilYuan可视化股票量化系统
+* [easyquotation](https://github.com/shidenggui/easyquotation)：实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情
+* [AutoTrade](https://github.com/changye/AutoTrade)：一款自动化交易框架, 可以在其基础上 架设自己的策略交易系统
+* [sphinx-quant](https://github.com/sphinx-quant/sphinx-quant)：一个基于vnpy，支持多账户，多策略，实盘交易，数据分析，在线回测，风险管理，多交易节点的量化交易系统；支持CTP期货，股票，期权，数字货币等金融产品
 
 # Language
 * GO
@@ -96,6 +114,8 @@ TODO
   + [go-callvis](https://github.com/TrueFurby/go-callvis): Visualize call graph of a Go program using dot format
   + [revive](https://github.com/mgechev/revive): ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
   + [task](https://github.com/go-task/task): A task runner / simpler Make alternative written in Go
+  + [go-perfbook](https://github.com/dgryski/go-perfbook)：Thoughts on Go performance optimization
+  + [go2-book](https://github.com/chai2010/go2-book)：《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 * C
   + [curl](https://github.com/curl/curl): A command line tool and library for transferring data with URL syntax
   + [MemProcFS](https://github.com/ufrisk/MemProcFS): The Memory Process File System
@@ -131,6 +151,14 @@ TODO
   * [greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy)：Java诊断工具
   * [javacv](https://github.com/bytedeco/javacv)：Java interface to OpenCV, FFmpeg, and more
   * [miaosha](https://github.com/qiurunze123/miaosha)：秒杀系统设计与实现
+  * [Luban](https://github.com/Curzibn/Luban)：Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
+  * [HikariCP](https://github.com/brettwooldridge/HikariCP)：A solid, high-performance, JDBC connection pool at last
+  * [advanced-java](https://github.com/doocs/advanced-java)：互联网 Java 工程师进阶知识完全扫盲
+  * [t-io](<https://github.com/tywo45/t-io>)：t-io是基于aio(nio2)的网络编程框架
+  * [java-security](<https://github.com/momosecurity/rhizobia_J>)：JAVA安全SDK及编码规范
+  * [jna](https://github.com/java-native-access/jna)：Java Native Access
+  * [aviator](<https://github.com/killme2008/aviator>)：A high performance expression evaluator for java
+  * [light-4j](<https://github.com/networknt/light-4j>)：A fast, lightweight and more productive microservices framework
 * JavaScript
   + [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)：Algorithms and data structures implemented in JavaScript with explanations and links to further readings
   + [chinese-dos-games-web](https://github.com/rwv/chinese-dos-games-web)
@@ -145,6 +173,7 @@ TODO
   + [quasar](https://github.com/quasarframework/quasar)
   + [livepython](https://github.com/agermanidis/livepython)：Visually trace Python code in real-time
   + [reveal.js](https://github.com/hakimel/reveal.js)：The HTML Presentation Framework
+  + [js-dev-reads](https://github.com/twhite96/js-dev-reads)：A list of books 📚and articles 📝 for the discerning web developer to read.
 * Python
   + [tldr](https://github.com/tldr-pages/tldr): Simplified and community-driven man pages
   + [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim): EditorConfig plugin for Vim
@@ -163,6 +192,9 @@ TODO
   + [pattern](https://github.com/clips/pattern)：Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization
   + [clusterfuzz](https://github.com/google/clusterfuzz)：Scalable fuzzing infrastructure
   + [knowledge](https://github.com/coco369/knowledge)：python学习之路，就是不断累积，不断学习的过程
+  + [musicbox](https://github.com/darknessomi/musicbox)：网易云音乐命令行版本
+  + [PyLoom](https://github.com/spencer404/PyLoom)：Python爬虫框架，内置微博、自如、豆瓣图书、拉勾网、拼多多等爬虫
+  + [PythonDemo](https://github.com/allenlu2008/PythonDemo)：虾神的Python示例代码库
 
 # Learn
 * [Meta-Learning-Papers](https://github.com/floodsung/Meta-Learning-Papers): Meta Learning / Learning to Learn / One Shot Learning / Few Shot Learning
@@ -182,6 +214,7 @@ TODO
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java http://java-design-patterns.com
 * [interviews](https://github.com/kdn251/interviews): Everything you need to know to get the job
 * [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.
+* [leetcode](https://github.com/mJackie/leetcode)：LeetCode Top 100 Liked Questions | Top Interview Questions | LeetCode 用户最喜欢的100题 | 面试最容易被问到的题
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [UCB DATA8 计算与推断思维](https://github.com/Kivy-CN/data8-textbook-zh)
 * [nodebestpractices](https://github.com/i0natan/nodebestpractices)： largest Node.js best practices list (January 2019)
@@ -192,6 +225,19 @@ TODO
 * [nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference)：These notes describes how to improve Nginx performance, security and other important things
 * [安全课程：渗透攻击](https://github.com/Micropoor/Micro8)
 * [distsys-class](https://github.com/aphyr/distsys-class)：Class materials for a distributed systems lecture series
+* [McQueenRPC](https://github.com/bluedavy/McQueenRPC)：[RPC框架优化之路：从37k到168k](https://mp.weixin.qq.com/s/A7j2my-4DFx4zSZz2ONJ6g)
+* [Go42](https://github.com/ffhelicopter/Go42)：Go语言四十二章经
+* [aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs)：Hands on labs and code to help you learn, measure, and build using architectural best practices
+* [acm-challenge-workbook](https://github.com/yogykwan/acm-challenge-workbook)：《挑战程序设计竞赛》习题册攻略
+* [prob140-textbook-zh](https://github.com/apachecn/prob140-textbook-zh)：面向数据科学的概率论
+* [Virgilio](https://github.com/clone95/Virgilio)：Your new Mentor for Data Science E-Learning
+* [serverless](https://github.com/serverless/serverless)：Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more
+* [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese)：可能是让你受益匪浅的英语进阶指南
+* [papers-notebook](https://github.com/dyweb/papers-notebook)：论文阅读笔记（分布式，虚拟化，容器，自动机器学习）
+* [simviso-Source-code-interpretation-sharing](<https://github.com/muyinchen/simviso-Source-code-interpretation-sharing>)：系列源码解读分享视频
+* [Go 夜读 > 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题](https://github.com/developer-learning/reading-go)
+* [TheAlgorithms](<https://github.com/TheAlgorithms/Java>)：All Algorithms implemented in Java
+* [**aofe.images**](<https://github.com/phodal/aofe.images>)：《前端架构：从入门到微前端》原图
 
 # Tools
 * [淘宝IP地址库](http://ip.taobao.com/index.html)
@@ -199,6 +245,11 @@ TODO
 * [funNLP](https://github.com/fighting41love/funNLP)
 * [evolutionoftheweb](http://www.evolutionoftheweb.com)
 * [git-history](https://github.com/pomber/git-history)：GitHub文件修改记录神器，可以查看任何github文件的历史修改记录。该工具的功能和使用方法简洁明了，只需要将任何文件的 URL 中的“github.com”替换成“github.githistory.xyz”即可。
+* [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)：Chrome插件英雄榜
+* [baiduyun](<https://github.com/syhyz1990/baiduyun>)：油猴脚本，直接下载百度网盘和百度网盘分享的文件，直链下载超级加速
+* [wechat-format](<https://github.com/lyricat/wechat-format>)：微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
+* [remote-working](https://github.com/greatghoul/remote-working)：收集整理远程工作相关的资料
+* [awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh)：独立开发/自由职业/远程工作资源列表
 
 
 # Others
